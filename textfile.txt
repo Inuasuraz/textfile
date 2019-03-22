@@ -1,4 +1,7 @@
 Hello
 
 Sawasdee
+<<<<<<< HEAD
 1
+=======
+>>>>>>> lnwtest
